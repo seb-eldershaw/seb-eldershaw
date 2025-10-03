@@ -15,7 +15,7 @@ Alexander Nakarada
 2. The Arzium trilogy (Above and Below, Near and Far, Now or Never)
 3. Terraforming Mars
 
-An example of my pixel art ↓
+An example of my pixel art ↓<br>
 <img width="70" height="70" alt="SquirrelPFP" src="https://github.com/user-attachments/assets/f59dc96a-819c-4cf6-95c4-17af1789bb39" />
 
 <!--
