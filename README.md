@@ -1,6 +1,8 @@
 # About me
 Hi, I’m Sebastian, and I’m a full-stack software developer! I discovered tech in high school, and since then I've spent a lot of time working on projects and courses, teaching myself new languages, and tinkering with websites and games. I recently graduated from Dev Academy Aotearoa's intense 17 week course, where I did around 800 hours of learning both tech and soft skills important for full stack development. Together with my fellow students, I've worked on some amazing projects, and experienced huge growth in my learning and collaboration skills. Moving into the job hunt, I'm excited to be a part of such a creative and innovative industry!
 
+[Link to my CV](https://docs.google.com/document/d/1X5wmcu8LQhee_FtqjpBm8EY8lPthUIlj0qeBTGPH8Ss/edit?usp=sharing)
+
 # Interests and hobbies
 I enjoy anything that will challenge me and give me an opportunity for creativitiy. I can usually be found playing the piano, doing board games with my family and friends, or exploring the bush. I also love making models of various things and doing pixel art.
 Another of my interests is learning about as many things as I can possibly fit into my brain, I love talking to people who have new perspectives and knowledge, and trying out new things.
