@@ -8,9 +8,10 @@ Another of my interests is learning about as many things as I can possibly fit i
 # Current projects
 I'm working on building a 2D platformer game in the browser using Phaser.js. I'm particularly excited to turn my pixel art into sprite animations, and also figuring out how to do good game design. 
 
-# Favorite music artist
+Favorite music artist:
 Alexander Nakarada
-# Top 3 board games
+
+Top 3 board games:
 1. Scythe
 2. The Arzium trilogy (Above and Below, Near and Far, Now or Never)
 3. Terraforming Mars
